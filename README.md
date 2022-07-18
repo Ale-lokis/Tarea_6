@@ -1,15 +1,13 @@
-### <center><h2> INGENIERÍA EN BIOTECNOLOGÍA</h2></center>
-# <center><h1 style="color:red">GBI6 - BIOINFORMÁTICA</h1></center>
+# <center><h2> GBI6 - BIOINFORMÁTICA</h2></center>
+### <center><h1> Alejandra Barros</h1></center>
 
 
-<img src="https://www.ikiam.edu.ec/img/logo-ikiam-grey.png" width=400 height=300 />
+<img src="https://www.ikiam.edu.ec/img/logo-ikiam-grey.png" width=200 height=100/>
 
 
-# T6_alelos
+Tare6_alelos
 
-#### Nombre: Thomas Garzon
-
-En esta actividad debe realizar lo siguiente: 
+En esta actividad debe realizar lo siguiente:
 
 - Crear un módulo alelos.py con las tres funciones de "Creación de la población", "Cuantificación de frecuencias de alelos" y "Creación de la población hijo". Cada función debe tener una sección de explicación de lo que hace, la explicación de las variables de entrrada y salida.
 
@@ -17,4 +15,4 @@ En esta actividad debe realizar lo siguiente:
 
 - Crear un repositorio en GitHub de nombre tarea6 y guardar los dos archivos de la tarea. El repositorio debe tener una Readme con los detalles de la actividad.
 
-Pegar el enlace del repositorio en la actividad T6_alelos de Moodle
+- Pegar el enlace del repositorio en la actividad T6_alelos de Moodle
